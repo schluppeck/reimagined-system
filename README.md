@@ -1,7 +1,6 @@
 # reimagined-system
-this an example repository of some documents to show version control in class
 
-We are now adding some text to this document, to see what a small change results in on the repo
+Adding some text to this document, to see what a small change results in on the repo
 
 ## Plan for later
 
@@ -9,3 +8,6 @@ We are now adding some text to this document, to see what a small change results
 - they edit a markdown file
 - they tell denis how amazing this technology is (optional)
 
+## Second part of this class
+
+- go back to `FSL` programs and make some nice images / visualisations.
